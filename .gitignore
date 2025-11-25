@@ -3,3 +3,9 @@
 node_modules/
 .vscode/
 .env
+dist/
+.firebase/
+firebase.json
+firebase.indexes.json
+firebase.rules
+.firebaserc
